@@ -1,10 +1,6 @@
 # BlogApp
 
-<b>Brak folderu node_modules.</b>
-
-Szkielet do bloga z prostym stylowaniem z pomocą CSS frameworka - SemanticUI.
-
-Użyto:
+Techs:
   - Node.js
   - Express
   - EJS
